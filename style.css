@@ -1,0 +1,24 @@
+body{
+    background-color: #D6D6D6;
+}
+h1 {
+    color: #8849B2; 
+    font-weight: bold;
+    font-family: Times;
+}
+
+h2 {
+    color: #2C7153; 
+    font-size:18px;
+    font-family: Times;
+}
+
+p {
+    margin: 10px;
+    padding-left: 15px;
+}
+
+ul {
+    color: #45AB45;
+    font-size: 17px;
+}
